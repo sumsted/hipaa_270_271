@@ -1,0 +1,5 @@
+This is a simple translation tool for X271 COBC NGHP query response feeds.
+The output is identical to the HEW software output. You could change this
+to write directly to a database instead of an output file.
+
+I'll add X270 NGHP query submission in the future.

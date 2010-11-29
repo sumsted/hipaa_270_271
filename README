@@ -3,3 +3,6 @@ The output is identical to the HEW software output. You could change this
 to write directly to a database instead of an output file.
 
 I'll add X270 NGHP query submission in the future.
+
+Disclaimer -
+Please use in a production environment at your own risk. I use this for testing and trouble-shooting only.
